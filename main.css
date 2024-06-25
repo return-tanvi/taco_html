@@ -1,0 +1,38 @@
+html{
+    font-size: 22px 
+}
+body {
+    background-color: #ccbbbb;
+    color:rgb(0, 0, 0)
+}
+h1 {
+    text-align: center;
+    color:rgb(122, 13, 122)
+}
+h2 {
+   color:rgb(122, 13, 122)
+}
+h3 {
+   color:rgb(177, 41, 177)
+}
+legend{
+    color:rgb(177, 41, 177)
+}
+a {
+    color:rgb(13, 14, 15);
+
+}
+a:visited {
+    color:rgb(13, 11, 11);
+}
+
+a:hover, a:active {
+    color:#bb1515;
+}
+table, tr, th, td, caption {
+    border:2px solid #181111;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.75rem;
+
+}
